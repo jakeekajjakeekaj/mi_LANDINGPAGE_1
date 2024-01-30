@@ -1,0 +1,1 @@
+Esta es una landing page reparada por mi, yo me encargué de modificar múltiples cosas para que cuadrara mejor, así como probar y agregar diferentes funciones
